@@ -1,7 +1,3 @@
-Here is a **professional README.md** file based on your project report:
-
----
-
 # Fashion Item Classification Using Convolutional Neural Networks (CNN)
 
 ## Project Overview
