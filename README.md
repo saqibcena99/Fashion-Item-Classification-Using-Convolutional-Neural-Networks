@@ -144,18 +144,6 @@ Improved generalization and robustness.
 
 ---
 
-## Project Structure (Example)
-
-```
-fashion-classification/
-│
-├── data/
-├── notebooks/
-├── models/
-├── results/
-├── README.md
-└── requirements.txt
-```
 
 ---
 
